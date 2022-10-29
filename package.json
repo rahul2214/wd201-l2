@@ -1,0 +1,24 @@
+{
+  "name": "hello-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rahul <dyrahulnaik22@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahul2214/wd-hello-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rahul2214/wd-hello-node/issues"
+  },
+  "homepage": "https://github.com/rahul2214/wd-hello-node#readme",
+  "description": "",
+  "dependencies": {
+    "eslint": "^8.24.0",
+    "minimist": "^1.2.7"
+  }
+}
